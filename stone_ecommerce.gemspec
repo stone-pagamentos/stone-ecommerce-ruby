@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.homepage = 'http://stone.com.br/'
   s.files = Dir.glob ["README.md", "LICENSE", "lib/**/*.{rb}", "*.gemspec"]
   s.test_files = Dir.glob ["spec/**/*"]
-  s.add_dependency 'rest-client', '~> 1.8', '>= 1.8.0'
+  s.add_dependency 'rest-client', '>= 2.0.2'
   s.add_dependency 'nori', '~> 2.6', '>= 2.6.0'
   s.add_dependency 'gyoku', '~> 1.3', '>= 1.3.1'
   s.add_dependency 'nokogiri', '~> 1.6', '>= 1.6.6.2'
