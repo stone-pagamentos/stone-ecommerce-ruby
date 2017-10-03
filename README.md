@@ -1,4 +1,4 @@
-# stone-ecommerce-ruby [![Build Status](https://travis-ci.org/stone-pagamentos/stone-ecommerce-ruby.svg?branch=master)](https://travis-ci.org/stone-pagamentos/stone-ecommerce-ruby)
+# stone-ecommerce-ruby [![Build Status](https://travis-ci.org/stone-payments/stone-ecommerce-ruby.svg?branch=master)](https://travis-ci.org/stone-payments/stone-ecommerce-ruby)
 
 ### Stone Gem Download
 
